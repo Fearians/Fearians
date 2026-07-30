@@ -2,7 +2,7 @@
 title: 我还没准备好
 published: 2026-05-13
 description: 关于二十岁生日前的年龄焦虑
-image: ./花.jpg
+image: "./花.jpg"
 tags: [留作纪念]
 category: 记录
 draft: false
