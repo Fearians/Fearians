@@ -2,7 +2,7 @@
 title: 无题
 published: 2026-07-29
 description: 典型adhd的一篇语音输入。无逻辑
-image: ./assets/images/风景1.jpg
+image: ./风景1.jpg
 tags: [很多啰嗦]
 category: 记录
 draft: false
